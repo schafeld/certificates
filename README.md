@@ -2,13 +2,11 @@
 
 Certificates obtained by Oliver Schafeld. Mostly Coursera and software engineering / Web development related. MOOC – Lifelong Learning. 
 
-| Title | Description | Certificate link | Course link | Topic | Date of achievement |
+| Title | Description | Certificate link | Course type | Topic | Date of achievement |
+|-------|-------------|------------------|-------------|-------|---------------------|
+|[APIs in Node.js: Write a RESTful API Backend Application](https://www.coursera.org/learn/node-js-restful-api-backend-app) | Create a basic REST API with Node.js | [certificate](https://coursera.org/verify/LU5FO3WG7RWY) | guided project | backend development, REST API, Node.js | October 15, 2025 |
 |-------|-------------|------------------|-------------|-------|---------------------|
 |       |             |                  |             |       |                     |
-|-------|-------------|------------------|-------------|-------|---------------------|
-|       |             |                  |             |       |                     |
-|-------|-------------|------------------|-------------|-------|---------------------|
-|       |             |                  |             |       |                     |
-|-------|-------------|------------------|-------------|-------|---------------------|
+
 
 Older courses and some topics have been left out.
