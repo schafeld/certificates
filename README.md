@@ -4,6 +4,7 @@ Certificates obtained by Oliver Schafeld. Mostly Coursera and software engineeri
 
 | Title | Description | Certificate link | Course type | Topic | Date of achievement |
 |-------|-------------|------------------|-------------|-------|---------------------|
+| [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) | Learn to collaborate with AI systems effectively, efficiently, ethically, and safely | [certificate](https://verify.skilljar.com/c/6eqg2ypuiwse) | short course | agentic and generative AI | Vovember 20, 2025 |
 | [Cosmic Coding with Symfony 7](https://symfonycasts.com/screencast/symfony) | Fundamentals of Symfony 7 | [certificate](https://symfonycasts.com/certificates/3E4F52C7C155) | course, code-along| PHP, Symfony | October 31, 2025 |
 |[APIs in Node.js: Write a RESTful API Backend Application](https://www.coursera.org/learn/node-js-restful-api-backend-app) | Create a basic REST API with Node.js | [certificate](https://coursera.org/verify/LU5FO3WG7RWY) | guided project | backend development, REST API, Node.js | October 15, 2025 |
 |[Google Analytics for Beginners: Marketing Essentials](https://www.coursera.org/projects/google-analytics-for-beginners-marketing-essentials) | Basic set-up of Google Analytics | [certificate](https://coursera.org/verify/U44WVU5QGTQ1) | guided project | analytics, tracking | October 15, 2025 |
