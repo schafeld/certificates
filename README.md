@@ -12,4 +12,6 @@ Certificates obtained by Oliver Schafeld. Mostly Coursera and software engineeri
 |[Vue Masterclass 2024](https://vueschool.io/courses/the-vuejs-3-master-class) | "Build real-world apps using Supabase, advanced state management, dynamic routing, and TypeScript." | [certificate](https://vueschool.io/certificates/04d6e264-4c39-48d8-bf53-90ae0246755e?signature=3e7f5b15c7f8ff7ad6f77625b88d45c50b0c2b09ee01a46181435262a5e9c722) | long course | Vue 3, Pinia, Composition API, SupaBase, Route Guards, Typescript, TailwindCSS, ShadCDN | December 2024 |
 | t.b.c. |   |   |   |   |   |
 
-Older courses and some personal interest topics omitted.
+This list will be added to. Some older courses and personal interest topics were omitted.
+
+A comprensive view of [Oliver Schafeld's courses taken via Coursera is online](https://www.coursera.org/user/0987b29bee53c06e7273d9903c498f33).
