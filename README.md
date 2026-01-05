@@ -16,3 +16,5 @@ Certificates obtained by Oliver Schafeld. Mostly Coursera and software engineeri
 This list will be added to. Some older courses and personal interest topics were omitted.
 
 A comprensive view of [Oliver Schafeld's courses taken via Coursera is online](https://www.coursera.org/user/0987b29bee53c06e7273d9903c498f33).
+
+Here is an ongoing list of [Oliver's Microsoft Learn certificates](https://learn.microsoft.com/en-us/users/oliverschafeld/) – no rocket science but better than crossword puzzles. 🤓
