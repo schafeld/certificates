@@ -1,6 +1,6 @@
 # Oliver Schafeld's Certificates
 
-Certificates obtained by Oliver Schafeld. Mostly Coursera and software engineering / Web development related. MOOC – Lifelong Learning. 
+Certificates obtained by Oliver Schafeld. Mostly [Coursera](https://www.coursera.org/) and software engineering / Web development related. MOOC – Lifelong Learning. 
 
 | Title | Description | Certificate link | Course type | Topic | Date of achievement |
 |-------|-------------|------------------|-------------|-------|---------------------|
