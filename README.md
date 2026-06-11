@@ -29,7 +29,7 @@ Certificates obtained by [Oliver Schafeld](https://schafeld.com/). Mostly [Cours
 
 This list will be added to. Some older courses and personal interest topics were omitted.
 
--A comprensive view of [Oliver Schafeld's courses taken via Coursera is online](https://www.coursera.org/user/0987b29bee53c06e7273d9903c498f33).- Coursera discontinued profile pages. You'll find portfolio projects aplenty in this repository.
+~~A comprensive view of [Oliver Schafeld's courses taken via Coursera is online](https://www.coursera.org/user/0987b29bee53c06e7273d9903c498f33).~~ Coursera discontinued profile pages. You'll find portfolio projects aplenty in this repository.
 
 Some (mostly older) [Google Developer badges](https://developers.google.com/profile/u/schafeld).
 
